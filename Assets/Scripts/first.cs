@@ -11,7 +11,7 @@ public class first : MonoBehaviour
         Debug.Log("first time deleted and edited");
         Debug.Log("second time deleted and edited");
         Debug.Log("third time deleted and edited");
-       
+        Debug.Log("fourth time deleted and edited");
     }
 
     // Update is called once per frame
