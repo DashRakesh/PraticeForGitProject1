@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638481567508602933
-    m_Hash: 321293908
+      ticks: 638481700629996195
+    m_Hash: 796707996
   m_LockFileStatus:
     m_FilePath: C:/Respose/Unity 2D/PraticeForGitProject1/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638481567508863327
-    m_Hash: 3336891299
+      ticks: 638481700629996195
+    m_Hash: 1151409059
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
