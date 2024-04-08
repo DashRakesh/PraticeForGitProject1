@@ -8,6 +8,8 @@ public class first : MonoBehaviour
     void Start()
     {
         Debug.Log("fasdasdj;asd");
+        Debug.Log("first time deleted and edited");
+       
     }
 
     // Update is called once per frame
