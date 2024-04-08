@@ -9,6 +9,7 @@ public class first : MonoBehaviour
     {
         Debug.Log("fasdasdj;asd");
         Debug.Log("first time deleted and edited");
+        Debug.Log("second time deleted and edited");
        
     }
 
